@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FAST.SocietiesManagement.BLL/FAST.SocietiesManagement.BLL.csproj" />
+  <Project Path="FAST.SocietiesManagement.Core/FAST.SocietiesManagement.Core.csproj" />
+  <Project Path="FAST.SocietiesManagement.DAL/FAST.SocietiesManagement.DAL.csproj" />
+  <Project Path="FAST.SocietiesManagement.Tests/FAST.SocietiesManagement.Tests.csproj" />
+  <Project Path="FAST.SocietiesManagement.UI/FAST.SocietiesManagement.UI.csproj" />
+</Solution>
